@@ -19,7 +19,7 @@
   <img src="screens/to.do.PNG" alt="todo">
 </p>
 
-Nesse desafio, foi criada uma aplicação para treinar o que foi aprendido até agora no ReactJS, onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Nesse desafio, foi criada uma aplicação de Todos para treinamento, onde o seu principal objetivo é manter um controle atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
